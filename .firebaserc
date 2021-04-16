@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "requisicoes-app",
+    "requisicoes-app": "requisicoes-app-9d44d"
+  }
+}
